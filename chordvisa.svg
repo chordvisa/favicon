@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="400" height="400" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
-  <title id="title">Logo CV Modern</title>
-  <desc id="desc">Lingkaran biru penuh dengan huruf C biru muda dan V emas, bold, besar, rata tengah, jarak rapat</desc>
+  <title id="title">Logo chordvisa</title>
+  <desc id="desc">Logo ini digunakan di situs chordvisa</desc>
 
   <!-- Lingkaran background -->
   <circle cx="100" cy="100" r="100" fill="#00357a" />
