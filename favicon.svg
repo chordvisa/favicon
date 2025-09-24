@@ -1,12 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <!-- Kotak background -->
   <rect width="512" height="512" fill="#00357a"></rect>
-  
-  <!-- Grup teks CV di tengah -->
-  <g font-family="Poppins, Arial, sans-serif" font-size="220" font-weight="700" text-anchor="middle" dominant-baseline="middle">
-    <!-- Huruf C (geser kiri) -->
-    <text x="180" y="270" fill="#0cc0df">C</text>
-    <!-- Huruf V -->
-    <text x="320" y="270" fill="#ffc107">V</text>
-  </g>
+
+  <!-- Lingkaran di tengah -->
+  <circle cx="256" cy="256" r="220" fill="#00357a"></circle>
+
+  <!-- Huruf C -->
+  <path d="M 210 150 C 160 150 120 190 120 256 C 120 322 160 362 210 362 
+           L 230 330 C 190 330 160 300 160 256 C 160 212 190 182 230 182 Z" fill="#0cc0df"></path>
+
+  <!-- Huruf V -->
+  <path d="M 280 150 L 320 362 L 360 362 L 400 150 L 360 150 
+           L 340 300 L 320 150 Z" fill="#ffc107"></path>
 </svg>
