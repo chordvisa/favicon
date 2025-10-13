@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-    <!-- 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="display:block;max-width:100%;height:auto;">
+  <!-- 
       Favicon for https://www.chordvisa.com
       Design: Three abstract paths representing musical harmony
     -->
-    <path d="M100 80 L200 80 L200 400 C200 440 140 480 100 480 C60 480 20 440 20 400 C20 360 60 320 100 320 C120 320 140 340 140 360 Z" fill="#FB7185"/>
-    <path d="M240 60 L340 60 L340 380 C340 420 280 460 240 460 C200 460 160 420 160 380 C160 340 200 300 240 300 C260 300 280 320 280 340 Z" fill="#0EA5E9"/>
-    <path d="M360 40 L460 40 L460 360 C460 400 400 440 360 440 C320 440 280 400 280 360 C280 320 320 280 360 280 C380 280 400 300 400 320 Z" fill="#A855F7"/>
     
+  <path d="M120 85 L220 85 L220 395 C220 435 160 475 120 475 C80 475 40 435 40 395 C40 355 80 315 120 315 C140 315 160 335 160 355 Z" fill="#FB7185"></path>
+  <path d="M220 65 L320 65 L320 375 C320 415 260 455 220 455 C180 455 140 415 140 375 C140 335 180 295 220 295 C240 295 260 315 260 335 Z" fill="#0EA5E9"></path>
+  <path d="M320 45 L420 45 L420 355 C420 395 360 435 320 435 C280 435 240 395 240 355 C240 315 280 275 320 275 C340 275 360 295 360 315 Z" fill="#A855F7"></path>
     <!-- 
       chordvisa.com - Music Chords
       Created: 2025
