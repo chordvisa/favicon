@@ -3,9 +3,8 @@
      style="display:block;max-width:100%;height:auto;">
   <!-- 
       Favicon for https://www.chordvisa.com
-      Design:Three abstract paths representing the Blue Harem saga:
     -->
-  <path d="M120 85 L220 85 L220 395 C220 435 160 475 120 475 C80 475 40 435 40 395 C40 355 80 315 120 315 C140 315 160 335 160 355 Z" fill="#F472B6"></path>
+  <path d="M120 85 L220 85 L220 395 C220 435 160 475 120 475 C80 475 40 435 40 395 C40 355 80 315 120 315 C140 315 160 335 160 355 Z" fill="#FB7185"></path>
   <path d="M220 65 L320 65 L320 375 C320 415 260 455 220 455 C180 455 140 415 140 375 C140 335 180 295 220 295 C240 295 260 315 260 335 Z" fill="#0EA5E9"></path>
   <path d="M320 45 L420 45 L420 355 C420 395 360 435 320 435 C280 435 240 395 240 355 C240 315 280 275 320 275 C340 275 360 295 360 315 Z" fill="#A855F7"></path>
     <!-- 
