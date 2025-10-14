@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 480 520" width="512" height="512" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality">
-  <!-- Favicon for https://www.chordvisa.com -->
-  <rect width="480" height="520" fill="none"></rect>
-  <!-- favicon for https://www.chordvisa.com -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" width="512" height="512" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality">
+
+  <rect width="520" height="520" fill="none"></rect>
+  <!-- favicon for chordvisa -->
   <!-- Pink (Intro) -->
   <path d="M90 90 L180 90 L180 380 C180 420 130 460 90 460 C50 460 10 420 10 380 C10 340 50 300 90 300 C110 300 130 320 130 340 Z" fill="#FF79AC"></path>
 
