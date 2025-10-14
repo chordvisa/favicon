@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 520" width="512" height="512">
-  <circle cx="240" cy="260" r="240" fill="none"></circle>
-    <!-- favicon for http://www.chordvisa.com -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 480 520" width="512" height="512" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality">
+  <!-- Favicon for https://www.chordvisa.com -->
+  <rect width="480" height="520" fill="none"></rect>
+  <!-- favicon for https://www.chordvisa.com -->
   <!-- Pink (Intro) -->
   <path d="M90 90 L180 90 L180 380 C180 420 130 460 90 460 C50 460 10 420 10 380 C10 340 50 300 90 300 C110 300 130 320 130 340 Z" fill="#FF79AC"></path>
+
   <!-- Blue (Main / Leader) -->
-  <path d="M210 70 L300 70 L300 360 C300 400 250 440 210 440 C170 440 130 400 130 360 C130 320 170 280 210 280 C230 280 250 300 250 320 Z" fill="#008CFF"></path>
+  <path d="M210 70 L300 70 L300 360 C300 400 250 440 210 440 C170 440 130 400 130 360 C130 320 170 280 210 280 C230 280 250 300 250 320 Z" fill="#0EA5E9"></path>
+
   <!-- Purple (Outro / Fade out) -->
   <path d="M330 50 L420 50 L420 340 C420 380 370 420 330 420 C290 420 250 380 250 340 C250 300 290 260 330 260 C350 260 370 280 370 300 Z" fill="#A855F7"></path>
-
 </svg>
