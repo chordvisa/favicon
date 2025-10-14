@@ -1,15 +1,11 @@
-  <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 512 512"
-     style="display:block;max-width:100%;height:auto;">
-  <!-- 
-      Favicon for https://www.chordvisa.com
-    -->
-  <path d="M120 85 L220 85 L220 395 C220 435 160 475 120 475 C80 475 40 435 40 395 C40 355 80 315 120 315 C140 315 160 335 160 355 Z" fill="#FF4DA6"></path>
-  <path d="M220 65 L320 65 L320 375 C320 415 260 455 220 455 C180 455 140 415 140 375 C140 335 180 295 220 295 C240 295 260 315 260 335 Z" fill="#0EA5E9"></path>
-  <path d="M320 45 L420 45 L420 355 C420 395 360 435 320 435 C280 435 240 395 240 355 C240 315 280 275 320 275 C340 275 360 295 360 315 Z" fill="#A855F7"></path>
-    <!-- 
-      chordvisa.com - Music Chords
-      Created: 2025
-      SVG Favicon v3.0 - Optimized positioning
-    -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 520" width="512" height="512">
+  <circle cx="240" cy="260" r="240" fill="none"></circle>
+    <!-- favicon for http://www.chordvisa.com -->
+  <!-- Pink (Intro) -->
+  <path d="M90 90 L180 90 L180 380 C180 420 130 460 90 460 C50 460 10 420 10 380 C10 340 50 300 90 300 C110 300 130 320 130 340 Z" fill="#FF709B"></path>
+  <!-- Blue (Main / Leader) -->
+  <path d="M210 70 L300 70 L300 360 C300 400 250 440 210 440 C170 440 130 400 130 360 C130 320 170 280 210 280 C230 280 250 300 250 320 Z" fill="#0EA5E9"></path>
+  <!-- Purple (Outro / Fade out) -->
+  <path d="M330 50 L420 50 L420 340 C420 380 370 420 330 420 C290 420 250 380 250 340 C250 300 290 260 330 260 C350 260 370 280 370 300 Z" fill="#A855F7"></path>
+
 </svg>
